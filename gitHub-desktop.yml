@@ -1,0 +1,6 @@
+---
+- { u: 'https://central.github.com/deployments/desktop/desktop/latest/darwin',
+    f: 'GitHubDesktop.zip',
+    n: 'GitHub Desktop',
+    t: 'zip',
+  }

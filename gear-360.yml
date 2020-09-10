@@ -1,0 +1,8 @@
+---
+# See `juju4.macos_apps_install` role documentation for usage instructions.
+# Used to install applications that are NOT available as Homebrew Cask or in MacAppStore
+- { u: 'http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=US&CttFileID=6787528&CDCttType=SW&ModelType=C&ModelName=SM-R210NZWAXAR&VPath=SW/201809/20180917135001161/Gear360Mac_180817.pkg',
+    f: 'Gear360Mac_180817.pkg',
+    n: 'Gear 360',
+    t: 'pkgonly',
+  }

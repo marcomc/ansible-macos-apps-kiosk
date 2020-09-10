@@ -1,0 +1,7 @@
+---
+- { u: 'https://www.batchcrop.com/BatchCrop.mac.V4.01.dmg',
+    f: 'BatchCrop.mac.V4.01.dmg',
+    n: 'BatchCrop',
+    t: 'app',
+    version: '4.0.1',
+  }

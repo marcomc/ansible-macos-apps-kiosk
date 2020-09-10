@@ -1,0 +1,8 @@
+---
+- { u: 'http://dl.paragon-software.com/demo/trial_extfs.dmg',
+    f: 'trial_extfs.dmg',
+    n: 'extFS for Mac',
+    m: '/Volumes/ParagonFS.extfs',
+    t: 'installer',
+    exec_name: 'FSInstaller.app'
+  }

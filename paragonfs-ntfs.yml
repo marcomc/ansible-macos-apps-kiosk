@@ -1,0 +1,8 @@
+---
+- { u: 'http://dl.paragon-software.com/demo/ntfsmac15_trial.dmg',
+    f: 'ntfsmac15_trial.dmg',
+    n: 'NTFS for Mac',
+    m: '/Volumes/ParagonFS.ntfs',
+    t: 'installer',
+    exec_name: 'FSInstaller.app'
+  }

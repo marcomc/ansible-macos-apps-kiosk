@@ -1,0 +1,8 @@
+---
+- { u: 'http://download.assistiveware.com/ivox/installers/Infovox%20iVox%20Voice%20Manager.dmg',
+    f: 'Infovox iVox Voice Manager.dmg',
+    n: 'Infovox iVox v4.5.1',
+    m: '/Volumes/Infovox iVox v4.5.1',
+    t: 'pkg',
+    version: '4.5.1',
+  }

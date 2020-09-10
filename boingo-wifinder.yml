@@ -1,0 +1,7 @@
+---
+- { u: 'http://static-assets.boingo.com/apps/macupg003/wifinder-mac10-7.dmg',
+    f: 'wifinder-mac10-7.dmg',
+    n: 'Boingo Wi-Finder',
+    m: '/Volumes/Boingo Wi-Finder',
+    t: 'app'
+  }

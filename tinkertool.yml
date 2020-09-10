@@ -1,0 +1,8 @@
+---
+- { u: 'https://www.bresink.com/download3.php?PHPSESSID=5fb2454743915622c9025bf4c0b66d83',
+    f: 'TinkerTool.dmg',
+    n: 'TinkerTool',
+    m: '/Volumes/TinkerTool 7.5',
+    t: 'app',
+    version: '7.5',
+  }

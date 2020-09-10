@@ -1,0 +1,7 @@
+---
+- { u: 'http://dm5.movescount.com/SuuntoDM5.dmg',
+    f: 'SuuntoDM5.dmg',
+    n: 'SuuntoDM5',
+    m: '/Volumes/SuuntoDM5',
+    t: 'app',
+  }
